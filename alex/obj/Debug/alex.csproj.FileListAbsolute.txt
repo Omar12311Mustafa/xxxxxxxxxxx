@@ -1,0 +1,12 @@
+C:\Users\Omer\OneDrive\İş masası\alex\bin\Debug\alex.exe.config
+C:\Users\Omer\OneDrive\İş masası\alex\bin\Debug\alex.exe
+C:\Users\Omer\OneDrive\İş masası\alex\bin\Debug\alex.pdb
+C:\Users\Omer\OneDrive\İş masası\alex\obj\Debug\alex.csprojAssemblyReference.cache
+C:\Users\Omer\OneDrive\İş masası\alex\obj\Debug\alex.Form1.resources
+C:\Users\Omer\OneDrive\İş masası\alex\obj\Debug\alex.Form2.resources
+C:\Users\Omer\OneDrive\İş masası\alex\obj\Debug\alex.Form3.resources
+C:\Users\Omer\OneDrive\İş masası\alex\obj\Debug\alex.Properties.Resources.resources
+C:\Users\Omer\OneDrive\İş masası\alex\obj\Debug\alex.csproj.GenerateResource.cache
+C:\Users\Omer\OneDrive\İş masası\alex\obj\Debug\alex.csproj.CoreCompileInputs.cache
+C:\Users\Omer\OneDrive\İş masası\alex\obj\Debug\alex.exe
+C:\Users\Omer\OneDrive\İş masası\alex\obj\Debug\alex.pdb
